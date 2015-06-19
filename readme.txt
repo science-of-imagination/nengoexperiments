@@ -1,0 +1,1 @@
+This repo contains SOIL nengo experiments. Workflow to be documented soon.
